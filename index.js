@@ -21,7 +21,7 @@ if (number % 2 == 0) {
 }
 
 // Part 3: Hotdogs
-const numberOfHotdogs = 42;
+const numberOfHotdogs = 42666;
 
 if ((numberOfHotdogs) => 5) {
   console.log(`2 euro per hotdog`);
